@@ -6,7 +6,19 @@
     !PALABRAS RESERVADAS EN ECMAScript
     await / break / case / catch / class / const / continue / debugger / default / delete / do / else / export / 
     extends / finally / for / function / if / import / in / instanceof / new / return / super / switch / 
+<<<<<<< HEAD
     this / throw / try / typeof / var / void / while / with / yield */
     
+=======
+    this / throw / try / typeof / var / void / while / with / yield
+
+    !VARIABLES 
+    Las variables son espacios de memoria que alojan datos
+    *hoy en día las variables se declaran o con const o con let  
+    
+    */
+
+    let message = "Hi" //esto es una variable
+>>>>>>> 5751b93c2410883d11b367bbc32ca1bc079d87dd
 
     //este es un comentario de una sola  línea
